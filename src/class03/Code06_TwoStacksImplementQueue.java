@@ -2,6 +2,9 @@ package class03;
 
 import java.util.Stack;
 
+/**
+ * 如何用栈结构实现队列结构
+ */
 public class Code06_TwoStacksImplementQueue {
 
 	public static class TwoStacksQueue {

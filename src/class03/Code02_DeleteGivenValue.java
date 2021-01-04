@@ -1,5 +1,8 @@
 package class03;
 
+/**
+ * 把给定值都删除
+ */
 public class Code02_DeleteGivenValue {
 
 	public static class Node {

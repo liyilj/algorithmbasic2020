@@ -1,5 +1,9 @@
 package class03;
 
+/**
+ * 栈和队列的实际实现
+ * 2. 数组实现
+ */
 public class Code04_RingArray {
 
 	public static class MyQueue {

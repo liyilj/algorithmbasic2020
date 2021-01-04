@@ -1,5 +1,9 @@
 package class01;
 
+/**
+ * 认识二分法
+ * 局部最小值问题
+ */
 public class Code06_BSAwesome {
 
 	public static int getLessIndex(int[] arr) {

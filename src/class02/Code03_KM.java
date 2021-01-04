@@ -3,6 +3,11 @@ package class02;
 import java.util.HashMap;
 import java.util.HashSet;
 
+/**
+ * 认识异或运算
+ *
+ * 一个数组中有两种数出现了奇数次，其他数都出现了偶数次，怎么找到并打印这两种数
+ */
 public class Code03_KM {
 
 	public static int test(int[] arr, int k, int m) {

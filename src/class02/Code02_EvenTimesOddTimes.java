@@ -1,5 +1,11 @@
 package class02;
 
+/**
+ * 认识异或运算
+ * 一个数组中有一种数出现了奇数次，其他数都出现了偶数次，怎么找到并打印这种数
+ *
+ * 怎么把一个int类型的数，提取出最右侧的1来
+ */
 public class Code02_EvenTimesOddTimes {
 
 	// arr中，只有一种数，出现奇数次
